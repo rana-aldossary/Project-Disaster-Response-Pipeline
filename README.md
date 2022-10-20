@@ -1,13 +1,13 @@
 # Project-Disaster-Response-Pipeline
 
-# Project Summary
+## Project Summary
 The Disaster Response Pipeline project is the second project in the Data Scientist Nanodegree Udacity course. This project focus on analyzing and processing messages has been sent during the disaster and build a machine learning pipeline to classify the disaster messages. Also, it  includes a visualization of the data using a web app. Moreover, the user can enter the messages to get the classified messages.
 
 
 
 
 
-# How to Run The Project
+## How to Run The Project
 * Instructions:
   1. Run the following commands in the project's root directory to set up your database and model.
      * To run ETL pipeline that cleans data and stores in database
@@ -23,9 +23,9 @@ The Disaster Response Pipeline project is the second project in the Data Scienti
 
 
 
-# Files In The Repository
+## Files In The Repository
 
 
 
-# Acknowledgement
+## Acknowledgement
 The codes in the template folder are blong to the Udacity.
