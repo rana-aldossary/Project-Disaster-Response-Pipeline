@@ -24,7 +24,13 @@ The Disaster Response Pipeline project is the second project in the Data Scienti
 
 
 ## Files In The Repository
-
+* app
+  * this folder contain the HTML files and 'run.py' file 
+* data
+  *  this folder contain the data and the database
+* models
+  * this folder contain machine learning pipeline and the model exported as pickle file
+  
 
 
 ## Acknowledgement
